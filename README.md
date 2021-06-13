@@ -1,3 +1,1 @@
-1. Write  a Python program to print a fibonacci series
-
-2. Write a Python program to check whether the number is prime, even or odd number
+1. Write a program to draw a line using DDA.
